@@ -2,13 +2,13 @@ Política de privacidade
 
 O APP calculadora de notas IMD é de propriedade da empresa Macumba Company, que é a controladora de seus dados pessoais.
 
-Nós adotamos esta Política de Privacidade, que determina como nós estamos processando as informações coletadas pelo site calculadora de notas IMD e também explica por quais razões nós precisamos coletar dados pessoais sobre você. Portanto, você deve ler esta Política de Privacidade antes de usar o site calculadora de notas IMD.
+Nós adotamos esta Política de Privacidade, que determina como nós estamos processando as informações coletadas pelo app calculadora de notas IMD e também explica por quais razões nós precisamos coletar dados pessoais sobre você. Portanto, você deve ler esta Política de Privacidade antes de usar o app calculadora de notas IMD.
 
 Nós cuidamos dos seus dados pessoais e assumimos a responsabilidade de garantir a confidencialidade e segurança de suas informações pessiais.
 
 Estes são as informações pessoais que coletamos:
 
-Quando você visita o site calculadora de notas IMD, nós  automaticamente coletamos certas informações sobre seu dispositivo, incluindo informações sobre seu navegador, endereço IP, fuso horário e alguns dos cookies instalados no seu dispositivo. Além disso, quando você navega pelo Site, nós coletamos informações sobre as páginas individuais ou produtos que você visualiza, sobre quais sites ou termos de busca redirecionaram você para nosso Site, e sobre como você interage com o Site. Nós nos referimos a essas informações coletadas automaticamente como "Informações sobre o dispositivo". Além disso, nós podemos coletar dados pessoais que você fornecer (incluindo, mas não limitado a: Nome, Sobrenome, Endereço, informações de pagamento, etc.) durante o processo de registro para poder cumprir o acordo.
+Quando você faz o download do app calculadora de notas IMD, nós  automaticamente coletamos certas informações sobre seu dispositivo, incluindo informações sobre seu navegador, endereço IP, fuso horário e alguns dos cookies instalados no seu dispositivo. nós não coletamos informações sobre as páginas individuais ou produtos que você visualiza, sobre quais sites ou termos de busca redirecionaram você para nosso app, e sobre como você interage com o app. Nós nos referimos a essas informações coletadas automaticamente como "Informações sobre o dispositivo". Além disso, nós podemos coletar dados pessoais que você fornecer (incluindo, mas não limitado a: Nome, Sobrenome, Endereço, informações de pagamento, etc.) durante o processo de registro para poder cumprir o acordo.
 
 Por que fazemos o processamento dos seus dados?
 
